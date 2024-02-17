@@ -10,7 +10,7 @@ const songs = [
     id: 2,
     title: 'Awful',
     artist: 'josh pan',
-    artwork: require('../assets/img/img2.jpg'),
+    artwork: require('../assets/img/img2.png'),
     url: 'https://firebasestorage.googleapis.com/v0/b/spotify-clone-7a2ef.appspot.com/o/Ringtone%2FAudio%2FAwful%20-%20josh%20pan.mp3?alt=media&token=5b174d4c-be09-417c-9fb8-b384f3ce0ec2',
   },
   {
